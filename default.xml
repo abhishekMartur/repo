@@ -1,0 +1,9 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <manifest>
+
+ <remote fetch="https://github.com/abhishekMartur/" name="EazyExit" />
+
+     <project name="chand.git" path="lib/chand" remote="EazyExit" revision="b5f9aa956622c8d99d510fd5dd6cbc1911edf15c" />
+     <project name="Demo.git" path="lib/Demo" remote="EazyExit" revision="37fd8a26c81de2ca0d153a640958533423bcd329" />
+
+ </manifest>
